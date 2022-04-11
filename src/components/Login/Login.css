@@ -43,6 +43,7 @@
     border: none;
     font-size: 21px;
     cursor: pointer;
+    margin-bottom: 25px;
 }
 
 .form-submit:hover {
